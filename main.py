@@ -8,4 +8,4 @@ def root():
 
 @app.get("/posts")
 def get_posts():
-    return {"data: This is your posts! Also some new changes lmao"}
+    return {"data: This is your postsdfkkjdsf"}
